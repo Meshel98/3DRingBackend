@@ -1,0 +1,20 @@
+# Dependency directories
+node_modules/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional: MacOS folder attribute files
+.DS_Store
+
+# Optional: dotenv environment variable files
+.env
+
+# Optional: npm debug log
+npm-debug.log*
+
+# Optional: Yarn error log
+yarn-error.log
